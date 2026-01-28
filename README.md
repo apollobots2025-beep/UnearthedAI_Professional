@@ -28,9 +28,9 @@
 ## 📥 Installation & Usage
 *ArchaeologyApp™ is distributed as a single-file executable for verified professionals.*
 
-1.  Download the `ArchaeologyApp_Installer.exe` from the [Releases](https://github.com/apollobots2025-beep/ArchaeologyApp_Professional/releases/) tab.
+1.  Download the `UnearthedAI_2026-01-27_Windows.zip` from the [Releases](https://github.com/apollobots2025-beep/ArchaeologyApp_Professional/releases/) tab.
 2.  Run the installer to extract the portable environment.
-3.  Launch `InitializeApp.bat` to start the analyzer.
+3.  Launch `UnearthedAI_Launch.bat` to start the analyzer.
 4.  Select your image folder and click **Analyze Artifacts**.
 
 ## ⚖️ License & Intellectual Property
