@@ -1,4 +1,4 @@
-# 🏺 ArchaeologyApp™ Professional Edition
+# 🏺 UnearthedAI™ Professional Edition
 **AI-Powered Artifact Identification for Remote & Submerged Sites**
 
 [![Version](https://img.shields.io/badge/Version-1.0_FLL_Submerged-blue.svg)](https://github.com/YourUsername)
@@ -7,7 +7,7 @@
 ---
 
 ## 🌊 Overview
-**ArchaeologyApp™** is a specialized computer vision tool designed for archaeologists working in challenging, disconnected environments. Developed originally for the 2026 FIRST LEGO League "Submerged" season, this tool allows researchers to identify, categorize, and document artifacts instantly—even without an internet connection.
+**UnearthedAI™** is a specialized computer vision tool designed for archaeologists working in challenging, disconnected environments. Developed originally for the 2026 FIRST LEGO League "Submerged" season, this tool allows researchers to identify, categorize, and document artifacts instantly—even without an internet connection.
 
 
 
@@ -26,7 +26,7 @@
 
 
 ## 📥 Installation & Usage
-*ArchaeologyApp™ is distributed as a single-file executable for verified professionals.*
+*UnearthedAI™ is distributed as a single-file executable for verified professionals.*
 
 1.  Download the `UnearthedAI_2026-01-27_Windows.zip` from the [Releases](https://github.com/apollobots2025-beep/ArchaeologyApp_Professional/releases/) tab.
 2.  Run the installer to extract the portable environment.
@@ -37,7 +37,7 @@
 This software is **Proprietary**. All rights to the source code, AI model configuration, and branding are owned by **Umar S. Bakhodirjonov**.
 
 * **Copyright:** © 2026 Umar S. Bakhodirjonov. All Rights Reserved.
-* **Trademark:** ArchaeologyApp™ and Unearthed AI™ are trademarks of the author.
+* **Trademark:** Unearthed AI™ is a trademark of the author.
 
 *Unauthorized distribution or reverse engineering is strictly prohibited.*
 
